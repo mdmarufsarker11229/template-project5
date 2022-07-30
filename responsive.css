@@ -1,0 +1,6 @@
+@media all and (max-width:936px) {
+	.menu-area ul li a {
+		margin-right:10px;
+		font-size:10px;
+	}
+}
